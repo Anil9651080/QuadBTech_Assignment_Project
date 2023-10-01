@@ -1,3 +1,30 @@
+
+#Screenshots of the test project (3 display screens i.e. Mobile, laptop, tablet)
+
+(I)  Mobile:-
+
+![Photo1](https://github.com/Anil9651080/QuadBTech_Assignment_Project/assets/92240772/4abbb1d8-9eec-4c66-87c9-b25ab9340783)
+
+
+![Photo2](https://github.com/Anil9651080/QuadBTech_Assignment_Project/assets/92240772/8ee31dfe-4d64-4f0c-b0a6-d1981b331285)
+
+
+(II)  Laptop:-
+
+![Photo3](https://github.com/Anil9651080/QuadBTech_Assignment_Project/assets/92240772/f4e31dbe-6ebd-4b09-b5cd-c09d917935f0)
+
+![Photo4](https://github.com/Anil9651080/QuadBTech_Assignment_Project/assets/92240772/8e8ae691-c111-43e4-b6ee-5b28a947f422)
+
+
+(III)  Tablet:-
+
+![Photo5](https://github.com/Anil9651080/QuadBTech_Assignment_Project/assets/92240772/b0bac6c1-82a0-4198-aa14-0dc84e26924a)
+
+![Photo6](https://github.com/Anil9651080/QuadBTech_Assignment_Project/assets/92240772/6411dfb8-4cb2-414e-8298-0a7133b00864)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
